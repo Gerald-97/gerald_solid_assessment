@@ -18,7 +18,7 @@ below for more
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/kappapay/mobile-app.git
+https://github.com/Gerald-97/gerald_solid_assessment.git
 ```
 
 **Step 2:**
